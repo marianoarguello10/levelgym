@@ -1,1 +1,1 @@
-cosole.log("Esto es una prueba de PULL");
+console.log("Esto es una prueba de PULL");
